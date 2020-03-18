@@ -1,0 +1,48 @@
+{
+  "PostDate": "2020-03-18T17:45:35Z",
+  "DistributionURL": "https://swdist.apple.com/content/downloads/42/04/061-90686-A_4MAUECKSOA/j2tpuet47z5nx66qmwv87j7bcu2c37pht8/061-90686.English.dist",
+  "Packages": [
+    {
+      "Digest": "e9a60ea798f21322c2b83a2a98f6a77e0f01ad68",
+      "Size": 1235124812,
+      "MetadataURL": "https://swdist.apple.com/content/downloads/42/04/061-90686-A_4MAUECKSOA/j2tpuet47z5nx66qmwv87j7bcu2c37pht8/SecUpd2020-002HighSierraDeveloperBeta.pkm",
+      "URL": "http://swcdn.apple.com/content/downloads/42/04/061-90686-A_4MAUECKSOA/j2tpuet47z5nx66qmwv87j7bcu2c37pht8/SecUpd2020-002HighSierraDeveloperBeta.pkg"
+    },
+    {
+      "Digest": "19d7f9aa2cd6002175acc9339d75ac518838a5c3",
+      "Size": 486098178,
+      "MetadataURL": "https://swdist.apple.com/content/downloads/42/04/061-90686-A_4MAUECKSOA/j2tpuet47z5nx66qmwv87j7bcu2c37pht8/SecUpd2020-002HighSierraDeveloperBeta.RecoveryHDUpdate.pkm",
+      "URL": "http://swcdn.apple.com/content/downloads/42/04/061-90686-A_4MAUECKSOA/j2tpuet47z5nx66qmwv87j7bcu2c37pht8/SecUpd2020-002HighSierraDeveloperBeta.RecoveryHDUpdate.pkg"
+    },
+    {
+      "Digest": "ba2f84fbef5755c7ce34e382e5e05d0223a21e34",
+      "Size": 117739774,
+      "MetadataURL": "https://swdist.apple.com/content/downloads/42/04/061-90686-A_4MAUECKSOA/j2tpuet47z5nx66qmwv87j7bcu2c37pht8/FullBundleUpdate.pkm",
+      "URL": "http://swcdn.apple.com/content/downloads/42/04/061-90686-A_4MAUECKSOA/j2tpuet47z5nx66qmwv87j7bcu2c37pht8/FullBundleUpdate.pkg"
+    },
+    {
+      "Digest": "b3a33c2fafb10e03c77aace0f97b21f85871eaf9",
+      "Size": 202948733,
+      "MetadataURL": "https://swdist.apple.com/content/downloads/42/04/061-90686-A_4MAUECKSOA/j2tpuet47z5nx66qmwv87j7bcu2c37pht8/FirmwareUpdate.pkm",
+      "URL": "http://swcdn.apple.com/content/downloads/42/04/061-90686-A_4MAUECKSOA/j2tpuet47z5nx66qmwv87j7bcu2c37pht8/FirmwareUpdate.pkg"
+    },
+    {
+      "Digest": "b1413384686d0bcf43aac4ef58d1ee084f0dc2b9",
+      "Size": 16620,
+      "MetadataURL": "https://swdist.apple.com/content/downloads/42/04/061-90686-A_4MAUECKSOA/j2tpuet47z5nx66qmwv87j7bcu2c37pht8/SecureBoot.pkm",
+      "URL": "http://swcdn.apple.com/content/downloads/42/04/061-90686-A_4MAUECKSOA/j2tpuet47z5nx66qmwv87j7bcu2c37pht8/SecureBoot.pkg"
+    },
+    {
+      "Digest": "ce1fd24ef42aae75e1e56c2b48502dd0d57f5552",
+      "Size": 33008,
+      "MetadataURL": "https://swdist.apple.com/content/downloads/42/04/061-90686-A_4MAUECKSOA/j2tpuet47z5nx66qmwv87j7bcu2c37pht8/macOSBrain.pkm",
+      "URL": "http://swcdn.apple.com/content/downloads/42/04/061-90686-A_4MAUECKSOA/j2tpuet47z5nx66qmwv87j7bcu2c37pht8/macOSBrain.pkg"
+    },
+    {
+      "Digest": "7d0df2da21a307af8d7ea5b07c0f8d2bed05ad33",
+      "Size": 59314423,
+      "MetadataURL": "https://swdist.apple.com/content/downloads/42/04/061-90686-A_4MAUECKSOA/j2tpuet47z5nx66qmwv87j7bcu2c37pht8/EmbeddedOSFirmware.pkm",
+      "URL": "http://swcdn.apple.com/content/downloads/42/04/061-90686-A_4MAUECKSOA/j2tpuet47z5nx66qmwv87j7bcu2c37pht8/EmbeddedOSFirmware.pkg"
+    }
+  ]
+}
